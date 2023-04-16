@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+}
+
+.header, .footer{
+    background-color: #023047;
+}
+
+.borders{
+    border: 1px solid black ;
+}
+
+::marker { 
+    color: red;
+    font-size: 23px;
+    margin: 0;
+    padding: 0;
+  }
+  
+
+/* input{
+    padding: 8px;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 8px;
+} */
+
+
